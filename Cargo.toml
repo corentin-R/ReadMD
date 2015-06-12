@@ -1,0 +1,8 @@
+[package]
+name = "readMD"
+version = "0.1.0"
+authors = ["corentin-R <corentinraoult@laposte.net>"]
+
+[dependencies]
+rand="0.3.0"
+getopts = "0.2"
