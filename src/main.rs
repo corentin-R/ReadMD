@@ -39,7 +39,7 @@ const B : &'static str = "\033[1m";
 
 fn check_title(line: String) -> usize {
 
-    //TODO: if ">xx##"
+    //TODO: if ">xx##" (quote)
 
     if line.is_empty() {
         return 0;
